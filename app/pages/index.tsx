@@ -54,7 +54,7 @@ const Home: BlitzPage = () => {
       <CssBaseline />
       <div className={classes.main}>
         <div className={classes.logo}>
-          <img src="/arai-uma.png" alt="sbcntr-frontend" />
+          <img src="/main.png" alt="sbcntr-frontend" />
         </div>
         <p>
           <strong>{hello}</strong>
